@@ -1,0 +1,20 @@
+.box {
+  width: auto;
+  height: 110px;
+  padding-left: 0;
+  list-style-type: none;
+  border: 1px solid black;
+  display: -webkit-flex;
+  display: flex;
+  flex: 1;
+}
+
+.firstOptions {
+  background-color: yellow;
+  border-right: 1px solid red;
+  width: 50px;
+}
+
+.secondOptions {
+  background-color: green;
+}
